@@ -1,2 +1,2 @@
 # -user-privilege
-PHP + MYSQL 
+PHP + MYSQL permission => add,edit,delete,list
